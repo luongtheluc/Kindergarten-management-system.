@@ -1,0 +1,32 @@
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\Atm.exe.config
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\Atm.exe
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\Atm.pdb
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Atm\Atm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.srmprivate.resources
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.Properties.Resources.resources
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.srmruttien.resources
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.csproj.CopyComplete
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.exe
+C:\Users\ACER\source\repos\Atm\Atm\obj\Debug\Atm.pdb
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.csprojAssemblyReference.cache
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.srmprivate.resources
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.Properties.Resources.resources
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.srmruttien.resources
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.csproj.GenerateResource.cache
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.exe
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.pdb
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\Atm.exe.config
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\Atm.exe
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\Atm.pdb
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\EntityFramework.dll
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\EntityFramework.xml
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\My Computer\Desktop\Atm\Atm\Atm\obj\Debug\Atm.csproj.CopyComplete
